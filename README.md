@@ -40,5 +40,4 @@ Deploy the MyToken contract to a supported Ethereum network.
 These are sample address which you can use for address attribute 
 Address = [0x66B0b1d2930059407DcC30F1A2305435fc37315E, 0x6827b8f6cc60497d9bf5210d602C0EcaFDF7C405];
 
-License
-This contract is licensed under the MIT License. SPDX-License-Identifier: MIT.
+
